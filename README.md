@@ -6,7 +6,9 @@ At this point I will just copy links here in this readme.
 a glossar is given as simple text file.
 
 First word about a CNN Hardware (sorry this is in german ;-) ) 
-<link>https://www.elektronikpraxis.vogel.de/alles-ueber-aiscale-den-universellen-cnn-hardwarebeschleuniger-a-756103/</link>
+</br>
+<a href="https:https://www.elektronikpraxis.vogel.de/alles-ueber-aiscale-den-universellen-cnn-hardwarebeschleuniger-a-756103/</a>
 
-About reading hand written numbers:
+About reading hand written numbers (just a short overview):
+</br>
 <a href="https://www.elektronikpraxis.vogel.de/handgeschriebene-zahlen-mit-kuenstlicher-intelligenz-erkennen-a-878429/" target="_blank">Read hand-written number via AI</a>
