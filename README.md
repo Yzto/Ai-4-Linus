@@ -8,3 +8,5 @@ a glossar is given as simple text file.
 First word about a CNN Hardware (sorry this is in german ;-) ) 
 <link>https://www.elektronikpraxis.vogel.de/alles-ueber-aiscale-den-universellen-cnn-hardwarebeschleuniger-a-756103/</link>
 
+About reading hand written numbers:
+https://www.elektronikpraxis.vogel.de/handgeschriebene-zahlen-mit-kuenstlicher-intelligenz-erkennen-a-878429/
