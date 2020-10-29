@@ -12,3 +12,6 @@ First word about a CNN Hardware (sorry this is in german ;-) )
 About reading hand written numbers (just a short overview):
 </br>
 <a href="https://www.elektronikpraxis.vogel.de/handgeschriebene-zahlen-mit-kuenstlicher-intelligenz-erkennen-a-878429" target="_blank">Read hand-written number via AI</a>
+
+Hands-On with the Intel Ncs2 - A CNN on a UBS stick:
+<a href="https://www.arrow.com/en/research-and-events/articles/hands-on-with-the-intel-ncs2" target="_blank">Hands-On with Ncs2</a>
