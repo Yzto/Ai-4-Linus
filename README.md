@@ -7,8 +7,8 @@ a glossar is given as simple text file.
 
 First word about a CNN Hardware (sorry this is in german ;-) ) 
 </br>
-<a href="https:https://www.elektronikpraxis.vogel.de/alles-ueber-aiscale-den-universellen-cnn-hardwarebeschleuniger-a-756103/" target="_blank"> here </a>
+<a href="https://www.elektronikpraxis.vogel.de/alles-ueber-aiscale-den-universellen-cnn-hardwarebeschleuniger-a-756103" target="_blank"> here </a>
 
 About reading hand written numbers (just a short overview):
 </br>
-<a href="https://www.elektronikpraxis.vogel.de/handgeschriebene-zahlen-mit-kuenstlicher-intelligenz-erkennen-a-878429/" target="_blank">Read hand-written number via AI</a>
+<a href="https://www.elektronikpraxis.vogel.de/handgeschriebene-zahlen-mit-kuenstlicher-intelligenz-erkennen-a-878429" target="_blank">Read hand-written number via AI</a>
