@@ -1,0 +1,12 @@
+Termes
+
+DNN   Deep Neural Networks 
+      A 3-dimensional network created from layers of neurons. There is a communication from layer to layer. 
+      But depending on the type of layer there is also a inner-layer communication, i.e. node-coefficent influence (manipulation).
+
+
+Hardware 
+
+CNN   Convolutional Neural Network
+      uhm, must be done ;-)
+
